@@ -2,7 +2,7 @@
 # 🏥 Healthcare Claims Accuracy & Reporting Application
 
 ##  Overview
-This is a mini Microsoft Access-based application to manage and report healthcare insurance claims data — built as part of my data analytics learning journey.
+This is a  Microsoft Access-based application to manage and report healthcare insurance claims data — built as part of my data analytics learning journey.
 
 ## 🛠️ Tools & Technologies
 - Microsoft Access (Forms, Reports, Queries)
